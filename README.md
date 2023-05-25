@@ -193,10 +193,7 @@ Es la misma ruta descrita para importar el <strong>JCalendar</strong>, haga clic
 Para este reto te proponemos dos tablas: <strong>Reservas</strong> y <strong>Huéspedes</strong>. La tabla de huéspedes debe contener la clave externa <em>(foreign key)</em> <strong>idReserva</strong>.
 
 <p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/169529338-09a4d4c2-1b5a-41dc-b305-38498ebc29a8.png">
-</p>
-<p align="center" >
-     <img width="500" heigth="500" src="https://user-images.githubusercontent.com/91544872/173358015-a252c5cf-48a2-4285-907d-a69239e7c5a5.png">
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/database.png">
 </p>
 
 ## Plugin WindowBuilder
