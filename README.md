@@ -222,6 +222,41 @@ Haz click en la opción para aceptar los Términos de Uso, y para finalizar haz 
      <img width="500" heigth="500" src="https://user-images.githubusercontent.com/101413385/173255298-05ac80f1-3e93-4097-90af-7fc8a4fa1611.png">
 </p>
 
+## Screens
+
+- MenuPrincipal
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/MenuPrincipal.png">
+</p>
+
+- Login
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/login.png">
+</p>
+
+- Busqueda
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/busqueda%20-%201.png">
+</p>
+<p align="center" >
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/busqueda%20-%202.png">
+</p>
+- Reservas
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/reservas.png">
+</p>
+
+- RegistroHuesped
+
+<p align="center" >
+     <img width="500" heigth="500" src="https://github.com/Ksosar/challenge-one-alura-hotel-latam/blob/main/reservahuespedes.png">
+</p>
+
+
 ## Entrega
 
 ### ¿Cómo incluir mi proyecto con el "#" del desafío?
